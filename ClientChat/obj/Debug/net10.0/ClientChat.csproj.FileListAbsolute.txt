@@ -1,0 +1,15 @@
+C:\Users\zinov\source\repos\ClientChat\bin\Debug\net10.0\ClientChat.exe
+C:\Users\zinov\source\repos\ClientChat\bin\Debug\net10.0\ClientChat.deps.json
+C:\Users\zinov\source\repos\ClientChat\bin\Debug\net10.0\ClientChat.runtimeconfig.json
+C:\Users\zinov\source\repos\ClientChat\bin\Debug\net10.0\ClientChat.dll
+C:\Users\zinov\source\repos\ClientChat\bin\Debug\net10.0\ClientChat.pdb
+C:\Users\zinov\source\repos\ClientChat\obj\Debug\net10.0\ClientChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zinov\source\repos\ClientChat\obj\Debug\net10.0\ClientChat.AssemblyInfoInputs.cache
+C:\Users\zinov\source\repos\ClientChat\obj\Debug\net10.0\ClientChat.AssemblyInfo.cs
+C:\Users\zinov\source\repos\ClientChat\obj\Debug\net10.0\ClientChat.csproj.CoreCompileInputs.cache
+C:\Users\zinov\source\repos\ClientChat\obj\Debug\net10.0\ClientChat.sourcelink.json
+C:\Users\zinov\source\repos\ClientChat\obj\Debug\net10.0\ClientChat.dll
+C:\Users\zinov\source\repos\ClientChat\obj\Debug\net10.0\refint\ClientChat.dll
+C:\Users\zinov\source\repos\ClientChat\obj\Debug\net10.0\ClientChat.pdb
+C:\Users\zinov\source\repos\ClientChat\obj\Debug\net10.0\ClientChat.genruntimeconfig.cache
+C:\Users\zinov\source\repos\ClientChat\obj\Debug\net10.0\ref\ClientChat.dll
